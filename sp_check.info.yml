@@ -1,0 +1,6 @@
+name: Custom Test
+description: 'Checks process of testing'
+type: module
+core: 8.x
+version: 1.0
+package: Custom
