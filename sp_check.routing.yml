@@ -1,0 +1,7 @@
+sp_check.test_controller_functional:
+  path: 'sp_check/test_controller_functional'
+  defaults:
+    _title: 'Tests Controller'
+    _controller: '\Drupal\sp_check\Controller\DoubtfulController::getContent'
+  requirements:
+    _access: 'TRUE'

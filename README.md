@@ -2,5 +2,6 @@
 The main goal of this module is testing. 
 
   **Implemented** :
-  * Unit testing (sp_check/tests/Unit/UnitSubjectTest.php)
+ * Unit testing (sp_check/tests/Unit/UnitSubjectTest.php)
+ * Functional testing(modules/custom/sp_check/tests/src/Functional/ControllerTest.php)
   
