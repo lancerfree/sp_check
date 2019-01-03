@@ -1,0 +1,3 @@
+services:
+  sp_check.custom_math:
+    class: \Drupal\sp_check\Services\CustomMath
